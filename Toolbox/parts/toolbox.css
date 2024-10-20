@@ -3,7 +3,7 @@
 #toolbar-menubar,
 #titlebar {
         color: var(--gnome-toolbar-color);
-	background: linear-gradient(128deg, rgba(4,2,34,1) 7%, rgba(6,12,74,1) 17%, rgba(82,21,85,1) 93%) !important;
+        background: linear-gradient(128deg, rgba(4, 2, 34, 1) 7%, rgba(6, 12, 74, 1) 17%, rgba(82, 21, 85, 1) 93%) !important;
         border-bottom: 1px ridge rgba(125, 125, 125, .1) !important;
 }
 

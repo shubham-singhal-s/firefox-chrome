@@ -1,12 +1,3 @@
-/* Variables that start with --gnome- are added by me and are assigned
- * to elements somewhere in this code. The rest of the variables are
- * built-in in Firefox, so you need to add an !important if you wanna
- * override them. */
-
-
-
-
-
 @media (prefers-color-scheme: dark) {
 	:root {
 		/* özel seri*/

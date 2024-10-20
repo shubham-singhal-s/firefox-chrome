@@ -68,7 +68,7 @@
 }
 
 #urlbar[breakout][breakout-extend] {
-	& > .urlbar-input-container {
+	&>.urlbar-input-container {
 		height: 33px !important;
 		z-index: 10;
 	}

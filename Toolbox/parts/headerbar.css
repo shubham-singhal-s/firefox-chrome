@@ -111,7 +111,7 @@ toolbar .toolbaritem-combined-buttons>.toolbarbutton-1 {
 #urlbar #urlbar-input-container:hover,
 #nav-bar #searchbar:hover {
 	/* background: linear-gradient(128deg, rgba(4,2,34,1) 7%, rgba(6,12,74,1) 17%, rgba(82,21,85,1) 93%) !important; */
-	background: linear-gradient(128deg, rgba(4,2,34,1) 0%, rgba(6,12,74,1) 17%, rgba(82,21,85,1) 100%) !important;
+	background: linear-gradient(128deg, rgba(4, 2, 34, 1) 0%, rgba(6, 12, 74, 1) 17%, rgba(82, 21, 85, 1) 100%) !important;
 	min-height: 33px;
 	transition: background .5s;
 }
@@ -127,7 +127,7 @@ toolbar .toolbaritem-combined-buttons>.toolbarbutton-1 {
 	#urlbar #urlbar-input-container:hover,
 	#nav-bar #searchbar:hover {
 		/* background: linear-gradient(128deg, rgba(4,2,34,1) 7%, rgba(6,12,74,1) 17%, rgba(82,21,85,1) 93%) !important; */
-        background: linear-gradient(128deg, rgba(4,2,34,1) 0%, rgba(6,12,74,1) 17%, rgba(82,21,85,1) 100%) !important;
+		background: linear-gradient(128deg, rgba(4, 2, 34, 1) 0%, rgba(6, 12, 74, 1) 17%, rgba(82, 21, 85, 1) 100%) !important;
 
 	}
 }

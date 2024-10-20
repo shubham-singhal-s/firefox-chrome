@@ -31,6 +31,6 @@
 
 @-moz-document domain(soaper.tv) {
   div.jw-captions.jw-reset.jw-captions-enabled {
-      font-size: 24px !important;
+    font-size: 24px !important;
   }
 }
